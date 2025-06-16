@@ -150,3 +150,19 @@ list-style: none;
 #bin{
     color: red;
 }
+
+
+@media (max-width: 768px){
+    .container{
+    
+       
+        max-width: 350px;
+        margin: 120px auto 0 auto;
+      
+    }
+    .stats-container{
+        gap: 50px;
+        width: 100%;
+       
+    }
+}
